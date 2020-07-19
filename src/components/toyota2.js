@@ -23,7 +23,7 @@ const Toyota2 = () => {
           <img src={N2JZ} alt="" />
         </div>
       </div>
-      <div>
+      <div className="car-footer">
         <a href="https://www.jdmenginedepotinc.com/?s=2jz&post_type=product">Buy me!</a>
         <a href="https://en.wikipedia.org/wiki/Toyota_JZ_engine#2JZ">Learn more</a>      
       </div>

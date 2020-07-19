@@ -24,7 +24,7 @@ const Mazda26 = () => {
         </div>
       </div>
       <div>
-        <a href="https://www.definedautoworks.com/mazda-rx7-engines-4-rotor.html">BUy me!</a>
+        <a href="https://www.definedautoworks.com/mazda-rx7-engines-4-rotor.html">Buy me!</a>
         <a href="https://en.wikipedia.org/wiki/Mazda_Wankel_engine#R26B">Learn more</a>      
       </div>
     </div>
